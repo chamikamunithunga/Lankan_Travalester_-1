@@ -10,7 +10,7 @@ Navigate to the Project Directory
 bash
 Copy code
 cd lankan-travelester
-Open the Project
+Open the Project  
 Open index.html in your preferred web browser to view the project.
 Installation
 No installation is required for this project. Simply clone the repository and open the index.html file in a web browser.
