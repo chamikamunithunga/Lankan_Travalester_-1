@@ -1,7 +1,8 @@
 ![Screenshot 2024-08-08 at 1 12 57 AM](https://github.com/user-attachments/assets/f9636378-be5a-45e8-a02c-c100d15908ef)
 
 
-
+This is an subset of the ASTROX Project (A-WORLD) - ASTROX WORLD
+----------------------------------------------------------------
 
 Getting Started
 ----------------
